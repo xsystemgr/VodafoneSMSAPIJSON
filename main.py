@@ -1,6 +1,4 @@
-import time
-
-import requests , random
+import requests
 from requests.structures import CaseInsensitiveDict
 
 url = "https://mybsms.gr/ws/send.json"
@@ -11,8 +9,8 @@ headers["Accept"] = "application/vnd.api+json"
 
 data = """
 {
- "username":"thessalybank",
- "password":"YWhAUx0iqe",
+ "username":"xxxxxxxxxxx",
+ "password":"xxxxxxxxxxx",
  "senderId":"ethessbank",
  "recipients":["00306988577088"], 
  "message":"message-text",
