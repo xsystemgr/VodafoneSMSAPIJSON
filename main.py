@@ -11,8 +11,8 @@ data = """
 {
  "username":"xxxxxxxxxxx",
  "password":"xxxxxxxxxxx",
- "senderId":"ethessbank",
- "recipients":["00306988577088"], 
+ "senderId":"hellouser",
+ "recipients":["00306988577000"], 
  "message":"message-text",
  "dlr-url":"http://ros.seczero.eu/incomes"
 }
